@@ -54,7 +54,7 @@ setInterval(async function() {
         subject
       });
     }
-
+    maxPostNumber += 1;
   } catch (e) {
     console.log(e);
   } finally {
