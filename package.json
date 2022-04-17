@@ -1,0 +1,29 @@
+{
+  "name": "ubuntu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "coolsms-node-sdk": "^2.0.1",
+    "crypto-js": "^4.0.0",
+    "date-utils": "^1.2.21",
+    "image-to-base64": "^2.1.1",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.33",
+    "nanoid-generate": "^1.0.0",
+    "node-schedule": "^2.0.0",
+    "path": "^0.12.7",
+    "qs": "^6.9.6",
+    "request": "^2.88.2",
+    "selenium-webdriver": "^4.1.1"
+  }
+}

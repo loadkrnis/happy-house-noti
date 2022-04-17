@@ -1,0 +1,7 @@
+.npm
+.cache
+.vscode-server
+node_modules
+dist/*
+*.logit
+config.json
